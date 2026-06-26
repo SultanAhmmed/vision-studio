@@ -84,7 +84,7 @@ screenshots/
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 vision_studio/
@@ -117,7 +117,7 @@ vision_studio/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Clone the Repository
 
@@ -141,7 +141,7 @@ pip install opencv-python pillow numpy
 
 ---
 
-## ▶️ Run the Application
+## Run the Application
 
 ```bash
 python main.py
@@ -149,7 +149,7 @@ python main.py
 
 ---
 
-## 🖥️ How to Use
+## How to Use
 
 ### Image Processing
 
@@ -168,7 +168,7 @@ python main.py
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 ### Computer Vision
 
@@ -255,8 +255,8 @@ Contributions are welcome.
 
 ---
 
-## 📄 License
+## License
 
-This project is licensed under the GPL License.
+This project is licensed under the GNU License.
 
 See the `LICENSE` file for more information.
