@@ -8,7 +8,7 @@ Vision Studio is a feature-rich desktop application that demonstrates practical 
 
 ## Preview
 
-> Add screenshots or GIFs of your application here.
+![Application Interface](assets/demo.png)
 
 ```
 screenshots/
